@@ -1,0 +1,2078 @@
+fileFormatVersion: 2
+guid: 74ff333a172c21648b43392a4f5ac3a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Kirby_Falling_Tackle
+  - first:
+      213: 21300002
+    second: Kirby_Idle_01
+  - first:
+      213: 21300004
+    second: Kirby_HitFatFire_03
+  - first:
+      213: 21300006
+    second: Kirby_Blink
+  - first:
+      213: 21300008
+    second: Kirby_Walk_01
+  - first:
+      213: 21300010
+    second: Kirby_Crouching
+  - first:
+      213: 21300012
+    second: Kirby_Walk_02
+  - first:
+      213: 21300014
+    second: Kirby_Walk_03
+  - first:
+      213: 21300016
+    second: Kirby_Walk_04
+  - first:
+      213: 21300018
+    second: Kiryby_Jump
+  - first:
+      213: 21300020
+    second: Kirby_Falling_01
+  - first:
+      213: 21300022
+    second: Kirby_Falling_02
+  - first:
+      213: 21300024
+    second: Kirby_Falling_03
+  - first:
+      213: 21300026
+    second: Kirby_Falling_04
+  - first:
+      213: 21300028
+    second: Kirby_Infflate_01
+  - first:
+      213: 21300030
+    second: Kirby_Inflate_02
+  - first:
+      213: 21300032
+    second: Kirby_Inflate_03
+  - first:
+      213: 21300034
+    second: Kirby_Inflate_04
+  - first:
+      213: 21300036
+    second: Kirby_Float_01
+  - first:
+      213: 21300038
+    second: Kirby_Float_02
+  - first:
+      213: 21300040
+    second: Kirby_Slide_Tackle
+  - first:
+      213: 21300042
+    second: Projectile_Ghust
+  - first:
+      213: 21300044
+    second: Kirby_BeamAttack_01
+  - first:
+      213: 21300046
+    second: Kirby_BeamAttack_02
+  - first:
+      213: 21300048
+    second: Kirby_BeamAttack_Particle
+  - first:
+      213: 21300050
+    second: Kirby_ElectricAttack_00
+  - first:
+      213: 21300052
+    second: Kirby_ElectricAttack_01
+  - first:
+      213: 21300054
+    second: Kirby_ElectricAttack_02
+  - first:
+      213: 21300056
+    second: Kirby_ElectricAttack_Particle_01
+  - first:
+      213: 21300058
+    second: Kirby_ElectricAttack_Particle_02
+  - first:
+      213: 21300060
+    second: Kirby_ElectricAttack_Particle_03
+  - first:
+      213: 21300062
+    second: Kirby_FireAttack_01
+  - first:
+      213: 21300064
+    second: Kirby_FireAttack_02
+  - first:
+      213: 21300066
+    second: Kirby_FireAttack_Particle_01
+  - first:
+      213: 21300068
+    second: irby_FireAttack_Particle_02
+  - first:
+      213: 21300070
+    second: irby_FireAttack_Particle_03
+  - first:
+      213: 21300072
+    second: irby_FireAttack_Particle_04
+  - first:
+      213: 21300074
+    second: Kirby_Swallowing_Particle
+  - first:
+      213: 21300076
+    second: Kriby_SpitStar_01
+  - first:
+      213: 21300078
+    second: Kriby_SpitStar_02
+  - first:
+      213: 21300080
+    second: Kriby_SpitStar_03
+  - first:
+      213: 21300082
+    second: Kriby_SpitStar_04
+  - first:
+      213: 21300084
+    second: Kirby_CollisionParticle_01
+  - first:
+      213: 21300086
+    second: Kirby_CollisionParticle_02
+  - first:
+      213: 21300088
+    second: Kirby_CollisionParticle_03
+  - first:
+      213: 21300090
+    second: LargeStar_01
+  - first:
+      213: 21300092
+    second: LargeStar_02
+  - first:
+      213: 21300094
+    second: LargeStar_03
+  - first:
+      213: 21300096
+    second: LargeStar_04
+  - first:
+      213: 21300098
+    second: NES - Kirbys Adventure - Kirby (Clean) 300 dpi_0
+  - first:
+      213: 3688191462597627112
+    second: Kirby_Fat_Idle
+  - first:
+      213: 6289805284875334043
+    second: Kirby_Fat_Walk_1
+  - first:
+      213: -988187021111129894
+    second: Kirby_Fat_Walk_2
+  - first:
+      213: 2916770884363077887
+    second: Kirby_Fat_Walk_3
+  - first:
+      213: -8789365044232181703
+    second: Kirby_Spit_1
+  - first:
+      213: -6501486618610128639
+    second: Kirby_Spit_2
+  - first:
+      213: 5083750337287548568
+    second: Kirby_Spit_3
+  - first:
+      213: 818049917394421697
+    second: Kirby_Spit_4
+  - first:
+      213: 7685287033728376966
+    second: Kirby_Swallow_1
+  - first:
+      213: -2019504208865714036
+    second: NES - Kirbys Adventure - Kirby (Clean) 300 dpi_3
+  - first:
+      213: 3229048756322991727
+    second: Kirby_Swallow_2
+  - first:
+      213: 140383264476309810
+    second: Kirby_Swallow_3
+  - first:
+      213: -3285984480376111049
+    second: Swallow_Particle_1
+  - first:
+      213: 3951183886270726682
+    second: Swallow_Particle_2
+  - first:
+      213: -3699316624051357658
+    second: Swallow_Particle_3
+  - first:
+      213: -3310993711522097241
+    second: Kirby_HitBasic
+  - first:
+      213: 5971075870803849759
+    second: Kirby_HitFatFire_02
+  - first:
+      213: 6900807556631040323
+    second: Kirby_HitFatBasic
+  - first:
+      213: 2734342298588474305
+    second: Kirby_HitElectric_01
+  - first:
+      213: -156206302652149548
+    second: Kirby_HitElectric_02
+  - first:
+      213: -9084318754180227935
+    second: Kirby_HitFire_01
+  - first:
+      213: 696614674241043969
+    second: Kirby_HitFire_02
+  - first:
+      213: -6364218984931738425
+    second: Kirby_HitFire_03
+  - first:
+      213: 127476630078777604
+    second: Kirby_HitFatFire_01
+  - first:
+      213: 4361952544432690281
+    second: Kirby_HitFatFire_03
+  - first:
+      213: 1039247147338251699
+    second: Kirby_HitFatFire_03
+  - first:
+      213: 4361952544432690281
+    second: Kirby_HitFatFire_03
+  - first:
+      213: 531919264897142261
+    second: Kirby_HitFatElectric_01
+  - first:
+      213: 8008497946589007654
+    second: NES - Kirbys Adventure - Kirby (Clean) 300 dpi_6
+  - first:
+      213: 2877227283492478531
+    second: Kirby_HitFatElectric_02
+  - first:
+      213: 1039247147338251699
+    second: Kirby_HitFatBaisc
+  - first:
+      213: 4361952544432690281
+    second: Kirby_HitFatFire_03
+  - first:
+      213: 4361952544432690281
+    second: Kirby_HitFatElectric_01
+  - first:
+      213: 4361952544432690281
+    second: Kirby_HitFatFire_03
+  - first:
+      213: 3322133753857250067
+    second: Kirby_HitFatElectric_01
+  - first:
+      213: 478618688234261695
+    second: Kirby_HitFatFire_03
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kirby_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9461
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47d30fd85beaad4a93479bfeedf8bcf
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Blink
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9461
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8aaed8fa684bf44c8aa35a204e5e08a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk_01
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9461
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a65d8b634b514b4ab737d0bfa00c11e
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 9461
+        width: 48
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d077f65860f58499b6395cb8c4c0c9
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk_03
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 9461
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba79a660863a4704ea29c8593ea3b802
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Walk_04
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 9461
+        width: 45
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7f93894ca139f46b755337dcd94c28
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kiryby_Jump
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9383
+        width: 51
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a38197a6c2473b4591cfbf358cc86f5
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Falling_01
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9383
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46331b95efffad04995f437ff73b147e
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Falling_02
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 9383
+        width: 47
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2c07ab2c2775841adbd96c3dda4fef
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Falling_03
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 9383
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974c546744becf54c835a636753a2f04
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Falling_04
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 9383
+        width: 49
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b945c16044b6704da4df19c2cddf8ed
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Infflate_01
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9276
+        width: 51
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c69b7227bd30344ba74fd7690d57ee
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Inflate_02
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9276
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c45da8f6c81874aa59d6cd347a12ba
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Inflate_03
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 9276
+        width: 50
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326f64d92edbdc74082c77c67c2fa876
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Inflate_04
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 9276
+        width: 69
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9ae60d93fc57e4e884e4a9397da5f5
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Float_01
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 9275
+        width: 73
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2a11b14b51aa245acb1955190780dd
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Float_02
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 9276
+        width: 72
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71115617d8575bb4b936812ad5683a24
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Crouching
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 9461
+        width: 49
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef9349605068c84c93b56da3ca92ec2
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Slide_Tackle
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 9461
+        width: 69
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a566754872a4d45bee7f0af1df1bdc
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Ghust
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 9280
+        width: 50
+        height: 45
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8756ce2746afd9b4f863cd43e641669a
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_BeamAttack_01
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 7945
+        width: 57
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9899950fa11f43f4d82421aced340411
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_BeamAttack_02
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 7945
+        width: 58
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b36a8f2c15b17a4aa0a305b141e1d95
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_BeamAttack_Particle
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 7944
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1267306f4e714e541a26b35f40c9e71f
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_ElectricAttack_00
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 7823
+        width: 49
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ae7a385408a4c49a51121da7007a24
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_ElectricAttack_01
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 7823
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16e9ae28e520064baea1ad86943bcac
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_ElectricAttack_02
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 7823
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9012105f91f71554db6ce6e12d418b5c
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_ElectricAttack_Particle_01
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 7823
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f87965a65e35f4ba86dd69395501a8
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_ElectricAttack_Particle_02
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 7823
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2936d1226ab80004aa3f020f3eca0cd6
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_ElectricAttack_Particle_03
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 7823
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d1cdc4a3ec12e4e88ff3117ef7575e
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_FireAttack_01
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 7704
+        width: 51
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b966631b0b7cf43b00223af70d757e
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_FireAttack_02
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7704
+        width: 49
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18e937a96ac3574a86ad4d84c15ef72
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_FireAttack_Particle_01
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7706
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123f73930a43a574cb54549c8a05a774
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irby_FireAttack_Particle_02
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 7703
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ede333e956f1b49b55f3d869afc3c5
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irby_FireAttack_Particle_03
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 7704
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8f649349d05cb42978c27b19425468
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: irby_FireAttack_Particle_04
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 7704
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d497227dfd4246469fe38e1264cbf23
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Swallowing_Particle
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9213
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c7ba1e0f7ed5a408deef6a97680c08
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kriby_SpitStar_01
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9098
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4808f2ce6cc64b943a59b597cf7e1f46
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kriby_SpitStar_02
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9098
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d1726190582994fba0bf0127f776f9
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kriby_SpitStar_03
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 9098
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba0db31faa2bb24e80b97f53b304888
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kriby_SpitStar_04
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 9098
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1058757b31654b469978d2d56121391
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_CollisionParticle_01
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 9097
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954ead4b90693bf4399822a62f9254be
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_CollisionParticle_02
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 9098
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545a9320a60b9764ebc77ce8e5a9e91d
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_CollisionParticle_03
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 9098
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff007993b6b60f46b285c06c7e73ce2
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeStar_01
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1512
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdfe433996f27b45a5f57859bd4f8c0
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeStar_02
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1512
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8e710d5325aea45aef19701998cff0
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeStar_03
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1512
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e705b346936a6df49b0c10ca5ab15658
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LargeStar_04
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1512
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff6896c76aa43a46bc4e91049587b43
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Kirby (Clean) 300 dpi_0
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1512
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809900ecd96a49640becdbb1e53fada8
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Fat_Idle
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 9179
+        width: 72
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35780ec30f4ac5a4fbd84a6c4f264ab2
+      internalID: 3688191462597627112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Fat_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 9176
+        width: 72
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877cfc6b8305bb4419fddf0390ce22bb
+      internalID: 6289805284875334043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Fat_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 9176
+        width: 69
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5058eb16648960c4e9e305a277c7d61e
+      internalID: -988187021111129894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Fat_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 9176
+        width: 70
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0134d84e385f984fb38cdc0fbb35577
+      internalID: 2916770884363077887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Spit_1
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 9179
+        width: 72
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef65967671b878d46ad8447e22ab3be3
+      internalID: -8789365044232181703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Spit_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 9179
+        width: 68
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c640d45e2caf140991a40977c9cc3f
+      internalID: -6501486618610128639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Spit_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 9176
+        width: 50
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00577efa5810974ca5816459af1510c
+      internalID: 5083750337287548568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Spit_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 9176
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f2410d5cc97314d91522e40535eaa0
+      internalID: 818049917394421697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Swallow_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8891
+        width: 72
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a28380a5ab29247b49dccb5128fcd6
+      internalID: 7685287033728376966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Kirby (Clean) 300 dpi_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 8824
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6478ded33deba94598eeee7f431976c
+      internalID: -2019504208865714036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Swallow_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 8887
+        width: 49
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09edd80a0c0fde4cac558f47c71d257
+      internalID: 3229048756322991727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Swallow_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 8888
+        width: 50
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3250ef748bb6e41b140db7f1998e18
+      internalID: 140383264476309810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallow_Particle_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8888
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f625e740f488c4ebf047c444bca45d
+      internalID: -3285984480376111049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallow_Particle_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 8888
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7bd4b0504344649bc4743c7480311d
+      internalID: 3951183886270726682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swallow_Particle_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 8890
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72489ec1c99949f4b9ec292142bb4a18
+      internalID: -3699316624051357658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HitBasic
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8426
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a75c2303ccfc02d0800000000000000
+      internalID: -3310993711522097241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HitElectric_01
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 8435
+        width: 72
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbe0b955d552f520800000000000000
+      internalID: 2734342298588474305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HitElectric_02
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 8435
+        width: 75
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0ddb2023b05ddf0800000000000000
+      internalID: -156206302652149548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HitFire_01
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 8425
+        width: 67
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1bae49340ee180800000000000000
+      internalID: -9084318754180227935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HitFire_02
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 8426
+        width: 75
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e367bfa5fdaa900800000000000000
+      internalID: 696614674241043969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HitFire_03
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 8426
+        width: 73
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccb8526d80cda7a0800000000000000
+      internalID: -6364218984931738425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HitFatFire_01
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 8298
+        width: 84
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4096205d153e4c100800000000000000
+      internalID: 127476630078777604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HitFatFire_02
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 8298
+        width: 93
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f127b2e4ed58dd250800000000000000
+      internalID: 5971075870803849759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HitFatElectric_02
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 8300
+        width: 101
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e91aa58f6fde720800000000000000
+      internalID: 2877227283492478531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HitFatBaisc
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8298
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd3fea36c52c6e00800000000000000
+      internalID: 1039247147338251699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HitFatElectric_01
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 8301
+        width: 89
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3131ff63c079a1e20800000000000000
+      internalID: 531919264897142261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_HitFatFire_03
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 8297
+        width: 98
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc011f392564a600800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7fdfcd124c617a44282fa87cba6668bb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kirby_HitFatFire_03: 21300004
+      Kirby_ElectricAttack_Particle_01: 21300056
+      Kirby_Swallow_1: 7685287033728376966
+      Kirby_Walk_04: 21300016
+      Kirby_Spit_1: -8789365044232181703
+      Kiryby_Jump: 21300018
+      Kriby_SpitStar_02: 21300078
+      Kirby_HitFatFire_01: 127476630078777604
+      Kirby_Fat_Idle: 3688191462597627112
+      Kriby_SpitStar_01: 21300076
+      Kirby_Spit_3: 5083750337287548568
+      Kirby_HitFatElectric_02: 2877227283492478531
+      Kirby_ElectricAttack_00: 21300050
+      Kirby_Inflate_03: 21300032
+      Kirby_Inflate_04: 21300034
+      Kirby_Idle_01: 21300002
+      Kirby_HitElectric_02: -156206302652149548
+      Kirby_BeamAttack_02: 21300046
+      Kirby_HitElectric_01: 2734342298588474305
+      LargeStar_04: 21300096
+      Kirby_HitFire_01: -9084318754180227935
+      Kirby_HitBasic: -3310993711522097241
+      Kirby_ElectricAttack_01: 21300052
+      Kriby_SpitStar_03: 21300080
+      Kirby_Falling_04: 21300026
+      LargeStar_01: 21300090
+      NES - Kirbys Adventure - Kirby (Clean) 300 dpi_3: -2019504208865714036
+      Kirby_Spit_2: -6501486618610128639
+      Kirby_CollisionParticle_02: 21300086
+      Kirby_Falling_02: 21300022
+      Kirby_Fat_Walk_3: 2916770884363077887
+      Kirby_Swallow_2: 3229048756322991727
+      Kirby_Walk_03: 21300014
+      Kirby_ElectricAttack_02: 21300054
+      Kirby_Float_01: 21300036
+      Kirby_FireAttack_01: 21300062
+      NES - Kirbys Adventure - Kirby (Clean) 300 dpi_0: 21300098
+      Kirby_Swallow_3: 140383264476309810
+      Kirby_HitFatFire_02: 5971075870803849759
+      Projectile_Ghust: 21300042
+      Kirby_Slide_Tackle: 21300040
+      Kirby_Fat_Walk_2: -988187021111129894
+      Kirby_Inflate_02: 21300030
+      Kirby_CollisionParticle_01: 21300084
+      Kirby_ElectricAttack_Particle_03: 21300060
+      Kirby_FireAttack_Particle_01: 21300066
+      Kirby_CollisionParticle_03: 21300088
+      Swallow_Particle_1: -3285984480376111049
+      LargeStar_02: 21300092
+      Kirby_Swallowing_Particle: 21300074
+      Kirby_Falling_01: 21300020
+      irby_FireAttack_Particle_04: 21300072
+      Kirby_Fat_Walk_1: 6289805284875334043
+      Kirby_Spit_4: 818049917394421697
+      Kirby_Crouching: 21300010
+      Kirby_Walk_01: 21300008
+      Kirby_Walk_02: 21300012
+      Kirby_BeamAttack_01: 21300044
+      irby_FireAttack_Particle_02: 21300068
+      Kriby_SpitStar_04: 21300082
+      Kirby_FireAttack_02: 21300064
+      Kirby_HitFire_03: -6364218984931738425
+      Swallow_Particle_2: 3951183886270726682
+      Kirby_Float_02: 21300038
+      Kirby_Blink: 21300006
+      Kirby_HitFatBaisc: 1039247147338251699
+      Kirby_Infflate_01: 21300028
+      Kirby_HitFire_02: 696614674241043969
+      LargeStar_03: 21300094
+      Kirby_BeamAttack_Particle: 21300048
+      Kirby_Falling_03: 21300024
+      Kirby_HitFatElectric_01: 531919264897142261
+      irby_FireAttack_Particle_03: 21300070
+      Swallow_Particle_3: -3699316624051357658
+      Kirby_ElectricAttack_Particle_02: 21300058
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
